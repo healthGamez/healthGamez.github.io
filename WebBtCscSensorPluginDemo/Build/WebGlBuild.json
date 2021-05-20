@@ -1,16 +1,15 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Web Bluetooth Cycling and Cadence sensor asset",
-"productVersion": "0.1",
+"companyName": "HealtGamez",
+"productName": "Web Bluetooth Cycling Speed and Cadence Sensor Plugin",
+"productVersion": "1.0",
 "dataUrl": "WebGlBuild.data.unityweb",
-"wasmCodeUrl": "WebGlBuild.wasm.code.unityweb",
+"wasmCodeUrl": "WebGlBuild.wasm",
 "wasmFrameworkUrl": "WebGlBuild.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
 "backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"},
 "developmentBuild": false,
 "multithreading": false,
-"unityVersion": "2019.4.21f1"
+"unityVersion": "2019.4.26f1"
 }
